@@ -1,0 +1,14 @@
+//provides implementation for DTOs
+DTO:
+moving data to n from the database
+sending data over http
+storing data in collections
+
+Any:
+//debugging
+to string
+//used to compare object instances
+hashcode
+equals
+
+=== reference equality test
